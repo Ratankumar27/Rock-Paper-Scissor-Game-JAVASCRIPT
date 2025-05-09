@@ -3,36 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Rock Paper Scissors Game</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      background: #ffffff;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    ul {
-      margin-left: 20px;
-    }
-    li {
-      margin-bottom: 8px;
-    }
-    .section-title {
-      margin-top: 30px;
-    }
-  </style>
+
 </head>
 <body>
 
