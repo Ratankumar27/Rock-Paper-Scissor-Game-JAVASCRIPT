@@ -8,7 +8,7 @@
 <body>
 
 <div class="container">
-  <h1>Rock, Paper, Scissors Game (User vs. Computer)</h1>
+
 
   <p>Rock, Paper, Scissors is a simple hand game usually played between two people, but in this case, it's played between a user and a computer.</p>
 
